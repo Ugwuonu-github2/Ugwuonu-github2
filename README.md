@@ -36,15 +36,27 @@ An interactive sales dashboard designed to analyze revenue, sales performance, p
 
 **Tools:** Excel • Power BI • Data Visualization
 
+🔗 [View Project](https://github.com/Ugwuonu-github2/Retail-Sales-Dashboard)
+
 ---
 
-### 🛍️ E-commerce Sales Performance Analysis
+### 🛍️ E-commerce Sales Performance Dashboard
 
-Exploratory data analysis of e-commerce sales data to identify revenue trends, top-performing countries, high-value customers, and other business insights.
+An interactive dashboard focused on e-commerce sales performance, revenue trends, top-performing countries, customers, and key business KPIs.
+
+**Tools:** Excel • Power BI • Data Visualization
+
+🔗 [View Project](https://github.com/Ugwuonu-github2/Ecommerce-Sales-Performance-Dashboard)
+
+---
+
+### 🐍 E-commerce Sales Performance Analysis
+
+Exploratory data analysis of e-commerce sales data using Python to identify revenue trends, top-performing countries, high-value customers, and other business insights.
 
 **Tools:** Python • Pandas • Matplotlib • Kaggle
 
-🔗 [View Project](https://github.com/Ugwuonu-github2/Ecommerce-Sales-Performance-Dashboard)
+🔗 [View Project](https://github.com/Ugwuonu-github2/Ecommerce-Sales-Performance-Analysis)
 
 ---
 
@@ -70,8 +82,5 @@ A predictive analytics project focused on analyzing historical sales patterns an
 
 **Tools:** Python • Pandas • Time Series Analysis
 
-**Currently Exploring**
 
-* Machine Learning
-* Predictive Analytics
-* Sales Forecasting
+
