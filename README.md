@@ -130,9 +130,14 @@ I am building toward a career in **Data Analytics and Business Analytics**, with
 
 ## 📈 GitHub Activity
 
-![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugwuonu-github2\&show_icons=true\&hide_border=true)
+I’m actively building my GitHub portfolio through hands-on projects in:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugwuonu-github2\&layout=compact\&hide_border=true)
+* 📊 Data Analytics
+* 🧮 Business Intelligence
+* 🐍 Python Data Analysis
+* 🗄️ SQL
+* 🤖 Predictive Analytics
+* 📈 Data Visualization
 
 ---
 
