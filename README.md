@@ -81,6 +81,39 @@ A predictive analytics project focused on identifying customers at risk of churn
 A predictive analytics project focused on analyzing historical sales patterns and forecasting future sales to support business planning and decision-making.
 
 **Tools:** Python • Pandas • Time Series Analysis
+## 🎯 Current Focus
+
+I’m currently focused on building practical skills in **Data Analytics, Business Intelligence, and Predictive Analytics**.
+
+My goal is to use data to help organizations understand their customers, improve operations, measure performance, and make better decisions.
+
+### 🚀 Currently Working On
+
+* Customer analytics and segmentation
+* Predictive analytics and machine learning
+* Sales forecasting
+* Business intelligence dashboards
+* Building real-world data analytics projects
+
+---
+
+## 📚 Career Direction
+
+I am building toward a career in **Data Analytics and Business Analytics**, with an interest in applying data-driven solutions across industries such as:
+
+* 🏦 Finance
+* 🏥 Healthcare
+* 🛒 E-commerce
+* 💻 Technology
+* 📊 Business & Consulting
+
+---
+
+## 🤝 Let's Connect
+
+I’m open to connecting with fellow data professionals, organizations, recruiters, and people interested in **Data Analytics, Business Intelligence, and technology**.
+
+Thanks for visiting my profile! 🚀
 
 
 
