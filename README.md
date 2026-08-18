@@ -146,7 +146,9 @@ I’m actively building my GitHub portfolio through hands-on projects in:
 I’m open to connecting with fellow data professionals, organizations, recruiters, and people interested in **Data Analytics, Business Intelligence, and technology**.
 
 📧 **Email:** [dennis.ugwuonu@gmail.com](mailto:dennis.ugwuonu@gmail.com)
+
 💼 **LinkedIn:** [Dennis Chinonso Ugwuonu](https://www.linkedin.com/in/dennis-chinonso-ugwuonu-6b121624b/)
+
 🐙 **GitHub:** [Ugwuonu-github2](https://github.com/Ugwuonu-github2)
 
 Thanks for visiting my profile! 🚀
