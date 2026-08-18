@@ -127,6 +127,15 @@ I am building toward a career in **Data Analytics and Business Analytics**, with
 
 `Git` `GitHub` `Jupyter Notebook` `Kaggle`
 ---
+
+## 📈 GitHub Activity
+
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugwuonu-github2\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugwuonu-github2\&layout=compact\&hide_border=true)
+
+---
+
 ## 🤝 Let's Connect
 
 I’m open to connecting with fellow data professionals, organizations, recruiters, and people interested in **Data Analytics, Business Intelligence, and technology**.
