@@ -114,6 +114,23 @@ I am building toward a career in **Data Analytics and Business Analytics**, with
 I’m open to connecting with fellow data professionals, organizations, recruiters, and people interested in **Data Analytics, Business Intelligence, and technology**.
 
 Thanks for visiting my profile! 🚀
+## 💻 Tech Stack
+
+**Languages & Querying**
+
+`Python` `SQL`
+
+**Data Analysis**
+
+`Pandas` `NumPy` `Matplotlib`
+
+**Business Intelligence**
+
+`Excel` `Power BI`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Jupyter Notebook` `Kaggle`
 
 
 
