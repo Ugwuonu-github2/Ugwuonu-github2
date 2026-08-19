@@ -1,12 +1,13 @@
 # Hi, I'm Dennis Chinonso Ugwuonu 👋
 
-### Data Analyst | Business Analytics | Mathematics Graduate
+### Data Analyst | Business Intelligence | Mathematics Graduate
 
-I’m a Mathematics graduate transitioning into **Data Analytics and Business Analytics**, with a focus on turning data into meaningful insights that support better business decisions.
+I’m a Mathematics graduate transitioning into **Data Analytics, Business Intelligence, and Data Science**, with a focus on using data to support better business decisions.
 
 I work with **Python, SQL, Excel, Power BI, and data visualization** to explore datasets, identify patterns, build analytical solutions, and communicate insights effectively.
 
 📊 **Currently building:** Real-world data analytics projects and a professional portfolio.
+
 ## 🛠️ Skills & Tools
 
 **Data Analysis**
@@ -28,6 +29,21 @@ I work with **Python, SQL, Excel, Power BI, and data visualization** to explore 
 * Sales & Revenue Analysis
 * Customer Segmentation
 * KPI Analysis
+
+## 🎓 Certifications
+
+### IBM Data Science Professional Certificate
+
+**Coursera** | **May 2022 – Jan 2023**
+
+- [Data Science Orientation](https://www.coursera.org/account/accomplishments/certificate/UFAEJ5HKYXZ8)
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/YHHCY7P6R83M)
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/LNG3NPPL9GV3)
+- [Python for Data Science, AI, and Development](https://www.coursera.org/account/accomplishments/certificate/SENWR4JH9F5A)
+- [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NV8MA4TEML8S)
+- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/YMZ6ZERW6TL4)
+- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/DLMSYU5NJB9Y)
+
 ## 📊 Featured Projects
 
 ### 🛒 Retail Sales Dashboard
@@ -81,6 +97,7 @@ A predictive analytics project focused on identifying customers at risk of churn
 A predictive analytics project focused on analyzing historical sales patterns and forecasting future sales to support business planning and decision-making.
 
 **Tools:** Python • Pandas • Time Series Analysis
+
 ## 🎯 Current Focus
 
 I’m currently focused on building practical skills in **Data Analytics, Business Intelligence, and Predictive Analytics**.
@@ -99,7 +116,7 @@ My goal is to use data to help organizations understand their customers, improve
 
 ## 📚 Career Direction
 
-I am building toward a career in **Data Analytics and Business Analytics**, with an interest in applying data-driven solutions across industries such as:
+I am building toward a career in **Data Analytics and Business Intelligence**, with an interest in applying data-driven solutions across industries such as:
 
 * 🏦 Finance
 * 🏥 Healthcare
@@ -126,6 +143,7 @@ I am building toward a career in **Data Analytics and Business Analytics**, with
 **Tools & Platforms**
 
 `Git` `GitHub` `Jupyter Notebook` `Kaggle`
+
 ---
 
 ## 📈 GitHub Activity
@@ -152,5 +170,3 @@ I’m open to connecting with fellow data professionals, organizations, recruite
 🐙 **GitHub:** [Ugwuonu-github2](https://github.com/Ugwuonu-github2)
 
 Thanks for visiting my profile! 🚀
-
-
