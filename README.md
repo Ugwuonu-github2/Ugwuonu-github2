@@ -44,6 +44,8 @@ I work with **Python, SQL, Excel, Power BI, and data visualization** to explore 
 - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/YMZ6ZERW6TL4)
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/DLMSYU5NJB9Y)
 
+## 📊 Featured Projects
+
 ### 🛒 Retail Sales Dashboard
 
 An interactive sales dashboard designed to analyze revenue, sales performance, product trends, and key business KPIs.
@@ -81,6 +83,7 @@ Customer-level analysis focused on purchasing behavior, customer value, purchase
 **Tools:** Python • Pandas • NumPy • Data Analysis
 
 🔗 [View Project](https://github.com/Ugwuonu-github2/e-commerce-customer-analytics)
+
 ---
 
 ### 📈 Customer Churn Prediction
