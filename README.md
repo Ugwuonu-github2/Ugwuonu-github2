@@ -82,6 +82,7 @@ Customer-level analysis focused on purchasing behavior, customer value, purchase
 
 **Tools:** Python • Pandas • NumPy • Data Analysis
 
+🔗 [View Project](https://github.com/ugwuonu-github2/e-commerce-customer-analytics)
 ---
 
 ### 📈 Customer Churn Prediction
